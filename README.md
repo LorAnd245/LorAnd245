@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS...
 - 🌱 I’m currently learning...
 - 📫 Reach me on Instagram: @cri_mora
-- 😄 Competences: Python, Git, C++, HTML and CSS
+- 😄 Competences: Python, Git, C++, HTML, Java and CSS
 - ⚡ Fun fact: AOF
 <!---
 LorAnd245/LorAnd245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
