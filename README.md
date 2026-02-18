@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LorAnd245
 - 👀 I’m interested in CS...
 - 🌱 I’m currently learning...
-- 📫 Reach me on Instagram: @cri_mora
+- 📫 Reach me on Instagram: @lorenzo.androni
 - 😄 Competences: Python, Git, C++, HTML, Java and CSS
 - ⚡ Fun fact: AOF
 <!---
